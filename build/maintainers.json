@@ -145,6 +145,9 @@
     "zhboner",
     "lyqluis"
   ],
+  "/3kns/:filters?/:order?": [
+    "xzzpig"
+  ],
   "/423down/:category/:type?": [],
   "/4gamers/": [
     "TonyRL"
@@ -1971,6 +1974,9 @@
   ],
   "/gamer/ani/anime/:sn": [],
   "/gamer/ani/new_anime": [],
+  "/gamer520/:category?/:order?": [
+    "xzzpig"
+  ],
   "/gamersecret/:type?/:category?": [
     "nczitzk"
   ],
@@ -2462,7 +2468,7 @@
   "/gumroad/:username/:products": [
     "Fatpandac"
   ],
-  "/guokr/:channel": [
+  "/guokr/column/:channel": [
     "DHPO",
     "hoilc"
   ],
@@ -3888,6 +3894,9 @@
   "/npmpackage/:name{(@[a-z0-9-~][a-z0-9-._~]*/)?[a-z0-9-~][a-z0-9-._~]*}": [],
   "/npr/:endpoint?": [
     "bennyyip"
+  ],
+  "/ntdm/video/:id": [
+    "alexhere"
   ],
   "/ntdtv/:language/:id": [
     "Fatpandac"
@@ -5531,6 +5540,9 @@
     "yindaheng98",
     "Rongronggg9"
   ],
+  "/twreporter/category/:category": [
+    "emdoe"
+  ],
   "/twreporter/newest": [
     "emdoe"
   ],
@@ -6397,6 +6409,10 @@
   ],
   "/zju/physics/:type": [
     "Caicailiushui"
+  ],
+  "/zjut/news/:type": [
+    "junbaor",
+    "yikZero"
   ],
   "/zjut/da/:type": [
     "yikZero"
